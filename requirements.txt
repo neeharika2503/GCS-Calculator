@@ -1,0 +1,14 @@
+# Core dependencies
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Model-specific
+xgboost==2.1.1
+shap==0.45.0
+
+# Utility / environment
+jupyterlab==4.2.5
+ipykernel==6.29.5
